@@ -1,38 +1,115 @@
-.App {
-  text-align: center;
+body {
+  font-family: "Open Sans", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar-dark {
+  background-color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-brand img {
+  height: 8rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.navbar-toggler {
+  background-color: white;
+}
+
+.navbar {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  background-color: black;
+  box-shadow: 0 0.5rem 0.5rem black;
+  z-index: 1;
+}
+
+.nav-item {
+  padding: 0.6rem;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.nav-link.active,
+.nav-link:hover {
+  color: #7d12e0 !important;
+}
+
+.site-footer {
+  background-image: linear-gradient(to right, #08080a, black);
+  padding: 20px 0.6rem;
   color: white;
+  size: 2rem;
+  letter-spacing: 0.3rem;
+  font-weight: 400;
 }
 
-.App-link {
-  color: #61dafb;
+.footernumber {
+  color: white;
+  font-size: 20px;
+}
+.footernumber:hover {
+  color: #7d12e0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.social-logo {
+  margin: 1%;
+}
+
+/* HOME COMPONENT */
+
+h2 {
+  color: #5330c5;
+}
+
+.section {
+  text-align: center;
+  padding: 30px 80px;
+  padding-bottom: 10px;
+}
+
+.section-light {
+  background-color: #f4f4f4;
+  color: #666;
+}
+.textstuff {
+  font-size: 3vh;
+  color: black;
+}
+
+.ptext {
+  top: 92%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.ptext .border {
+  background-color: #111;
+  color: #fff;
+  padding: 17px;
+}
+
+.ptext .border.trans {
+  background-color: transparent;
+}
+
+.pimg1 {
+  max-width: 100%;
+}
+
+.googlemap {
+  width: 80%;
+  height: 400px;
+  border-style: solid;
+  border-color: black;
+}
+
+.schedule {
+  border-style: solid;
+  border-color: black;
 }
