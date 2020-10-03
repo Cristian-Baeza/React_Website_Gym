@@ -7,7 +7,7 @@ export default function Store() {
       <div className="shake">
         <div className="target ptext">
           <p className="font-weight-bold border">
-         <a href="https://rollyfightwear.com/store/10thplanet/" target="_blank">CLICK HERE!</a>
+         <a href="https://rollyfightwear.com/store/10thplanet/" target="_blank">CLICK HERE FOR STORE!</a>
         </p>
           <img src="assets/images/amir_yell.png" className="pimg1" />
         </div>
