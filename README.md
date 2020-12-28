@@ -1,8 +1,9 @@
 Check it out!: https://10thplanetsaltlakecity.com/home
 
-About:
--HTML
--CSS/Styled Components
--React 
--React Router
--Mobile Responsive
+
+About: <br/>
+-HTML <br/>
+-CSS/Styled Components <br/>
+-React <br/>
+-React Router <br/>
+-Mobile Responsive <br/>
