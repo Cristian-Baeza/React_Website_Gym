@@ -22,7 +22,8 @@ function Footer(props) {
         953-6477</a>
 
             <a role="button" className="btn btn-link footernumber" href="mailto:10thplanetslc@gmail.com"><i
-              className="fa fa-envelope-o"></i> 10thplanetslc@gmail.com</a>
+              className="fa fa-envelope-o"></i> 10thplanetslc@gmail.com</a> <br />
+              Made by CBI
           </div>
         </div>
       </div>
