@@ -21,7 +21,7 @@ class Header extends Component {
   render() {
     return (
       <React.Fragment>
-        <Navbar className="navbar" dark sticky="top" expand="md">
+        <Navbar className="navbar" light sticky="top" expand="md">
           <div className="container">
             <NavbarBrand className="mr-auto" href="/">
               <img src="assets/images/10p-logo.png" className="rounded-circle" alt="10p logo" />
@@ -31,14 +31,14 @@ class Header extends Component {
               <Nav navbar className="ml-auto">
                 <NavItem>
                   <NavLink className="nav-link" to="/home">
-                    <i className="fa fa-home fa-sm" /> Home
+                    <i className="fa fa-home fa-sm" />Home
                   </NavLink>
                 </NavItem>
 
 
                 <NavItem>
                   <NavLink className="nav-link" to="/about">
-                    <i className="fa fa-info fa-sm" /> About
+                    <i className="fa fa-info fa-sm" />About
                   </NavLink>
                 </NavItem>
 
