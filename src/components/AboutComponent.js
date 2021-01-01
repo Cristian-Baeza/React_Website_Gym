@@ -5,7 +5,7 @@ function About() {
     <>
 
       <div>
-        <img src="assets/images/amir_eddie_bravo.jpg" className="pimg1" />
+        <img src="assets/images/amir_eddie_bravo.jpg" alt="amir and eddie" className="pimg1" />
         <div className="target ptext">
           <p className="font-weight-bold border">ABOUT US
         </p>

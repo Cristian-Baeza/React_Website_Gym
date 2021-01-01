@@ -5,7 +5,7 @@ function Home(props) {
     <>
 
       <div className="shake">
-        <img src="assets/images/bg2.png" className=" pimg1" />
+        <img src="assets/images/bg2.png" alt="amir allam" className=" pimg1" />
         <div className="target ptext">
           <p className="font-weight-bold border">10TH PLANET JIU JITSU SALT LAKE CITY
         </p>

@@ -4,7 +4,7 @@ export default function Schedule() {
   return (
     <>
       <div className="shake">
-        <img src="assets/images/gym_bw.jpg" className="pimg1" />
+        <img src="assets/images/gym_bw.jpg" alt="the gym!" className="pimg1" />
 
         <div className="target ptext">
           <p className="font-weight-bold border"> CLASS SCHEDULE
@@ -14,7 +14,7 @@ export default function Schedule() {
 
       <section className="section section-light">
 
-        <img src="assets/images/10p_Schedule.jpg" className="schedule img-fluid" />
+        <img src="assets/images/10p_Schedule.jpg" alt="the schedule" className="schedule img-fluid" />
 
       </section>
     </>
