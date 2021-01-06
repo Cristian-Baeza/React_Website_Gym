@@ -18,11 +18,10 @@ function Footer(props) {
             <a className="btn btn-social-icon btn-google social-logo" href="https://www.youtube.com/user/twistereddie/videos"
               target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a>
 
-            <a role="button" className="btn btn-link footernumber" href="tel:+18019536477"><i className="fa fa-phone"></i>(801)
-        953-6477</a>
+            <a role="button" className="btn btn-link footernumber" href="tel:+18019536477"><i className="fa fa-phone"></i>(801)953-6477</a>
 
             <a role="button" className="btn btn-link footernumber" href="mailto:10thplanetslc@gmail.com"><i
-              className="fa fa-envelope-o"></i> 10thplanetslc@gmail.com</a> <br />
+              className="fa fa-envelope-o"></i>10thplanetslc@gmail.com</a> <br />
               Website by CBI
           </div>
         </div>
