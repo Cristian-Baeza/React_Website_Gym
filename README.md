@@ -1,4 +1,4 @@
-Check it out!: https://10thplanetsaltlakecity.com/home
+Check it out!: https://10thplanetsaltlakecity.com/
 
 Pro Bono website I did for my Jiujitsu gym. 
 
