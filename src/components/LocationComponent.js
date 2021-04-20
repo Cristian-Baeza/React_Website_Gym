@@ -5,7 +5,7 @@ function Location() {
     <>
 
       <div className="shake">
-        <img src="assets/images/church_state_inside.jpg" alt="church and state" className="pimg1" />
+        <img src="https://ik.imagekit.io/0jty0e7po/church_state_inside_g9VA_VbW7L.jpg" alt="church and state" className="pimg1" />
 
         <div className="target ptext">
           <p className="font-weight-bold border">LOCATION

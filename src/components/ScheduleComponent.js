@@ -4,7 +4,7 @@ export default function Schedule() {
   return (
     <>
       <div className="shake">
-        <img src="assets/images/gym_bw.jpg" alt="the gym!" className="pimg1" />
+        <img src="https://ik.imagekit.io/0jty0e7po/gym_bw_2PVO839i-d.jpg" alt="the gym!" className="pimg1" />
 
         <div className="target ptext">
           <p className="font-weight-bold border"> CLASS SCHEDULE
