@@ -1,6 +1,6 @@
 Check it out!: https://10thplanetsaltlakecity.com/
 
-Pro Bono website I did for my Jiujitsu gym. 
+Website I did as a freelance web developer for a Jiujitsu gym. 
 
 About: <br/>
 -HTML <br/>
